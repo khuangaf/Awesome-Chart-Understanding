@@ -10,6 +10,25 @@ A curated list of the recent chart understanding work.
 
 ## Tasks
 
+### Chart Question Answering 
+
+**Factoid Questions**
+
+- [DVQA: Understanding Data Visualizations via Question Answering](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kafle_DVQA_Understanding_Data_CVPR_2018_paper.pdf). Kushal Kafle, Brian Price, Scott Cohen, Christopher Kanan. CVPR 2018.
+- [FigureQA: An Annotated Figure Dataset for Visual Reasoning](https://arxiv.org/abs/1710.07300). Samira Ebrahimi Kahou, Vincent Michalski, Adam Atkinson, Akos Kadar, Adam Trischler, Yoshua Bengio. ICLR 2018 Workshop. 
+- [PlotQA: Reasoning over Scientific Plots](https://arxiv.org/abs/1909.00997). Nitesh Methani, Pritha Ganguly, Mitesh M. Khapra, Pratyush Kumar. WACV 2020.
+- [ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning](Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque). ACL 2022 Findings.
+- [MathVista: Evaluating Math Reasoning in Visual Contexts with GPT-4V, Bard, and Other Large Multimodal Models](https://arxiv.org/abs/2310.02255). Pan Lu, Hritik Bansal, Tony Xia, Jiacheng Liu, Chunyuan Li, Hannaneh Hajishirzi, Hao Cheng, Kai-Wei Chang, Michel Galley, Jianfeng Gao. Arxiv 2023.
+
+**Long-form Questions**  
+
+- [OpenCQA: Open-ended Question Answering with Charts](https://aclanthology.org/2022.emnlp-main.811/). Shankar Kantharaj, Xuan Long Do, Rixie Tiffany Leong, Jia Qing Tan, Enamul Hoque, Shafiq Joty. EMNLP 2022.
+
+### Chart Captioning (Summarization)
+
+- [Chart-to-Text: Generating Natural Language Descriptions for Charts by Adapting the Transformer Model](https://aclanthology.org/2020.inlg-1.20/). Jason Obeid, Enamul Hoque. INLG 2020
+- [Chart-to-Text: A Large-Scale Benchmark for Chart Summarization](https://aclanthology.org/2022.acl-long.277/). Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, Enamul Hoque, Shafiq Joty. ACL 2022.
+- [VisText: A Benchmark for Semantically Rich Chart Captioning](https://aclanthology.org/2023.acl-long.401/). Benny Tang, Angie Boggust, Arvind Satyanarayan. ACL 2023.
 
 
 ## Methods
