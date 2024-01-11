@@ -1,5 +1,5 @@
 # Awesome Chart Understanding
-A curated list of the recent chart understanding work.
+A curated list of recent and past chart understanding work.
 
 
 ## Table of Contents 
