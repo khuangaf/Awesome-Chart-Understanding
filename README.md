@@ -41,3 +41,15 @@ A curated list of the recent chart understanding work.
 - [Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding](https://proceedings.mlr.press/v202/lee23g/lee23g.pdf). Kenton Lee, Mandar Joshi, Iulia Raluca Turc, Hexiang Hu, Fangyu Liu, Julian Martin Eisenschlos, Urvashi Khandelwal, Peter Shaw, Ming-Wei Chang, Kristina Toutanova. ICML 2023.
 
 
+### Large Vision-language Models 
+
+**Tailored for Chart Understanding** 
+- [ChartLlama: A Multimodal LLM for Chart Understanding and Generation](https://arxiv.org/abs/2311.16483). Yucheng Han, Chi Zhang, Xin Chen, Xu Yang, Zhibin Wang, Gang Yu, Bin Fu, Hanwang Zhang. Arxiv 2023.
+- [MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning](https://arxiv.org/abs/2311.10774). Fuxiao Liu, Xiaoyang Wang, Wenlin Yao, Jianshu Chen, Kaiqiang Song, Sangwoo Cho, Yaser Yacoob, Dong Yu. Arxiv 2023.
+- [ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning](https://arxiv.org/abs/2401.02384). Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo. Arxiv 2024.
+
+**General**
+
+- [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485). Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee. NeurIPS 2023.
+- [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/abs/2312.11805). Gemini Team Google. Arxiv 2023.
+- [GPT-4V](https://openai.com/research/gpt-4v-system-card). OpenAI. 2023.
