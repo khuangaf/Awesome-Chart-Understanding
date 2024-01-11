@@ -3,9 +3,9 @@ A curated list of the recent chart understanding work.
 
 
 ## Table of Contents 
-*  [Tasks/Resources](#tasks)
+*  [Tasks/ Resources](#tasks)
 *  [Methods](#methods)
-
+*  [Evaluation](#evaluation)
 
 
 ## Tasks
@@ -30,6 +30,9 @@ A curated list of the recent chart understanding work.
 - [Chart-to-Text: A Large-Scale Benchmark for Chart Summarization](https://aclanthology.org/2022.acl-long.277/). Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, Enamul Hoque, Shafiq Joty. ACL 2022.
 - [VisText: A Benchmark for Semantically Rich Chart Captioning](https://aclanthology.org/2023.acl-long.401/). Benny Tang, Angie Boggust, Arvind Satyanarayan. ACL 2023.
 
+### Chart Caption Factual Error Correction
+
+- [Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning](https://arxiv.org/abs/2312.10160). Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji. Arxiv 2023.
 
 ## Methods
 
@@ -39,6 +42,11 @@ A curated list of the recent chart understanding work.
 - [MatCha: Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering](https://aclanthology.org/2023.acl-long.714/). Fangyu Liu, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar Joshi, Yasemin Altun, Nigel Collier, Julian Eisenschlos. ACL 2023.
 - [UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning](https://aclanthology.org/2023.emnlp-main.906/). Ahmed Masry, Parsa Kavehzadeh, Xuan Long Do, Enamul Hoque, Shafiq Joty. EMNLP 2023.
 - [Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding](https://proceedings.mlr.press/v202/lee23g/lee23g.pdf). Kenton Lee, Mandar Joshi, Iulia Raluca Turc, Hexiang Hu, Fangyu Liu, Julian Martin Eisenschlos, Urvashi Khandelwal, Peter Shaw, Ming-Wei Chang, Kristina Toutanova. ICML 2023.
+
+### Tool Augmentation
+- [DePlot: One-shot visual language reasoning by plot-to-table translation](https://aclanthology.org/2023.findings-acl.660/). Fangyu Liu, Julian Eisenschlos, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar Joshi, Wenhu Chen, Nigel Collier, Yasemin Altun. ACL 2023 Findings.
+- [Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning](https://arxiv.org/abs/2312.10160). Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji. Arxiv 2023.
+- 
 
 
 ### Large Vision-language Models 
@@ -53,3 +61,11 @@ A curated list of the recent chart understanding work.
 - [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485). Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee. NeurIPS 2023.
 - [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/abs/2312.11805). Gemini Team Google. Arxiv 2023.
 - [GPT-4V](https://openai.com/research/gpt-4v-system-card). OpenAI. 2023.
+
+
+## Evaluation
+
+### Faithfulness/ Factuality
+
+- [Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning](https://arxiv.org/abs/2312.10160). Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji. Arxiv 2023.
+
