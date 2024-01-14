@@ -17,7 +17,7 @@ A curated list of recent and past chart understanding work.
 - [DVQA: Understanding Data Visualizations via Question Answering](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kafle_DVQA_Understanding_Data_CVPR_2018_paper.pdf). Kushal Kafle, Brian Price, Scott Cohen, Christopher Kanan. CVPR 2018.
 - [FigureQA: An Annotated Figure Dataset for Visual Reasoning](https://arxiv.org/abs/1710.07300). Samira Ebrahimi Kahou, Vincent Michalski, Adam Atkinson, Akos Kadar, Adam Trischler, Yoshua Bengio. ICLR 2018 Workshop. 
 - [PlotQA: Reasoning over Scientific Plots](https://arxiv.org/abs/1909.00997). Nitesh Methani, Pritha Ganguly, Mitesh M. Khapra, Pratyush Kumar. WACV 2020.
-- [ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning](Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque). ACL 2022 Findings.
+- [ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning](https://aclanthology.org/2022.findings-acl.177/). Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque. ACL 2022 Findings.
 - [MathVista: Evaluating Math Reasoning in Visual Contexts with GPT-4V, Bard, and Other Large Multimodal Models](https://arxiv.org/abs/2310.02255). Pan Lu, Hritik Bansal, Tony Xia, Jiacheng Liu, Chunyuan Li, Hannaneh Hajishirzi, Hao Cheng, Kai-Wei Chang, Michel Galley, Jianfeng Gao. Arxiv 2023.
 
 **Long-form Questions**  
