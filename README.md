@@ -15,8 +15,11 @@ A curated list of recent and past chart understanding work.
 **Factoid Questions**
 
 - [DVQA: Understanding Data Visualizations via Question Answering](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kafle_DVQA_Understanding_Data_CVPR_2018_paper.pdf). Kushal Kafle, Brian Price, Scott Cohen, Christopher Kanan. CVPR 2018.
-- [FigureQA: An Annotated Figure Dataset for Visual Reasoning](https://arxiv.org/abs/1710.07300). Samira Ebrahimi Kahou, Vincent Michalski, Adam Atkinson, Akos Kadar, Adam Trischler, Yoshua Bengio. ICLR 2018 Workshop. 
+- [FigureQA: An Annotated Figure Dataset for Visual Reasoning](https://arxiv.org/abs/1710.07300). Samira Ebrahimi Kahou, Vincent Michalski, Adam Atkinson, Akos Kadar, Adam Trischler, Yoshua Bengio. ICLR 2018 Workshop.
+- [LEAF-QA: Locate, Encode & Attend for Figure Question Answering](https://openaccess.thecvf.com/content_WACV_2020/papers/Chaudhry_LEAF-QA_Locate_Encode__Attend_for_Figure_Question_Answering_WACV_2020_paper.pdf). Ritwick Chaudhry, Sumit Shekhar, Utkarsh Gupta, Pranav Maneriker, Prann Bansal, Ajay Joshi. WACV 2020.
+- [STL-CQA: Structure-based Transformers with Localization and Encoding for Chart Question Answering](https://aclanthology.org/2020.emnlp-main.264/). Hrituraj Singh, Sumit Shekhar. EMNLP 2020.
 - [PlotQA: Reasoning over Scientific Plots](https://arxiv.org/abs/1909.00997). Nitesh Methani, Pritha Ganguly, Mitesh M. Khapra, Pratyush Kumar. WACV 2020.
+- [MapQA: A Dataset for Question Answering on Choropleth Maps](https://arxiv.org/abs/2211.08545). Shuaichen Chang, David Palzer, Jialin Li, Eric Fosler-Lussier, Ningchuan Xiao. Arxiv 2022.
 - [ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning](https://aclanthology.org/2022.findings-acl.177/). Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque. ACL 2022 Findings.
 - [MathVista: Evaluating Math Reasoning in Visual Contexts with GPT-4V, Bard, and Other Large Multimodal Models](https://arxiv.org/abs/2310.02255). Pan Lu, Hritik Bansal, Tony Xia, Jiacheng Liu, Chunyuan Li, Hannaneh Hajishirzi, Hao Cheng, Kai-Wei Chang, Michel Galley, Jianfeng Gao. Arxiv 2023.
 
@@ -34,6 +37,11 @@ A curated list of recent and past chart understanding work.
 
 - [Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning](https://arxiv.org/abs/2312.10160). Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji. Arxiv 2023.
 
+
+### Chart Fact-checking
+
+- [ChartCheck: An Evidence-Based Fact-Checking Dataset over Real-World Chart Images](https://arxiv.org/abs/2311.07453). Mubashara Akhtar, Nikesh Subedi, Vivek Gupta, Sahar Tahmasebi, Oana Cocarascu, Elena Simperl. Arxiv 2023.
+  
 ## Methods
 
 ### Pre-trained Vision-language Models
