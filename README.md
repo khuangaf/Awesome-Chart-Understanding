@@ -1,5 +1,9 @@
 # Awesome Chart Understanding
-A curated list of recent and past chart understanding work.
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
+
+A curated list of recent and past chart understanding work. **The repository will be continuously updated 📝**.
 
 
 ## Table of Contents 
