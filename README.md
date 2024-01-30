@@ -45,6 +45,7 @@ A curated list of recent and past chart understanding work. **The repository wil
 ### Chart Fact-checking
 
 - [ChartCheck: An Evidence-Based Fact-Checking Dataset over Real-World Chart Images](https://arxiv.org/abs/2311.07453). Mubashara Akhtar, Nikesh Subedi, Vivek Gupta, Sahar Tahmasebi, Oana Cocarascu, Elena Simperl. Arxiv 2023.
+- [ReadingandReasoningoverChartImagesforEvidence-based AutomatedFact-Checking](https://arxiv.org/abs/2301.11843). Mubasharar Akhtar, Oana Cocarascu, Elena Simperl. EACL 2023 Findings.
   
 ## Methods
 
