@@ -26,6 +26,9 @@ A curated list of recent and past chart understanding work. **The repository wil
 - [MapQA: A Dataset for Question Answering on Choropleth Maps](https://arxiv.org/abs/2211.08545). Shuaichen Chang, David Palzer, Jialin Li, Eric Fosler-Lussier, Ningchuan Xiao. Arxiv 2022.
 - [ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning](https://aclanthology.org/2022.findings-acl.177/). Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque. ACL 2022 Findings.
 - [MathVista: Evaluating Math Reasoning in Visual Contexts with GPT-4V, Bard, and Other Large Multimodal Models](https://arxiv.org/abs/2310.02255). Pan Lu, Hritik Bansal, Tony Xia, Jiacheng Liu, Chunyuan Li, Hannaneh Hajishirzi, Hao Cheng, Kai-Wei Chang, Michel Galley, Jianfeng Gao. Arxiv 2023.
+- [ChartBench: A Benchmark for Complex Visual Reasoning in Charts](https://arxiv.org/abs/2312.15915). Zhengzhuo Xu, Sinan Du, Yiyan Qi, Chengjin Xu, Chun Yuan, Jian Guo. Arxiv 2023
+
+
 
 **Long-form Questions**  
 
@@ -45,7 +48,7 @@ A curated list of recent and past chart understanding work. **The repository wil
 ### Chart Fact-checking
 
 - [ChartCheck: An Evidence-Based Fact-Checking Dataset over Real-World Chart Images](https://arxiv.org/abs/2311.07453). Mubashara Akhtar, Nikesh Subedi, Vivek Gupta, Sahar Tahmasebi, Oana Cocarascu, Elena Simperl. Arxiv 2023.
-- [ReadingandReasoningoverChartImagesforEvidence-based AutomatedFact-Checking](https://arxiv.org/abs/2301.11843). Mubasharar Akhtar, Oana Cocarascu, Elena Simperl. EACL 2023 Findings.
+- [Reading and Reasoning over Chart Images for Evidence-based Automated Fact-Checking](https://arxiv.org/abs/2301.11843). Mubasharar Akhtar, Oana Cocarascu, Elena Simperl. EACL 2023 Findings.
   
 ## Methods
 
@@ -60,6 +63,8 @@ A curated list of recent and past chart understanding work. **The repository wil
 - [DePlot: One-shot visual language reasoning by plot-to-table translation](https://aclanthology.org/2023.findings-acl.660/). Fangyu Liu, Julian Eisenschlos, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar Joshi, Wenhu Chen, Nigel Collier, Yasemin Altun. ACL 2023 Findings.
 - [Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning](https://arxiv.org/abs/2312.10160). Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji. Arxiv 2023.
 - [Do LLMs Work on Charts? Designing Few-Shot Prompts for Chart Question Answering and Summarization](https://arxiv.org/abs/2312.10610). Xuan Long Do, Mohammad Hassanpour, Ahmed Masry, Parsa Kavehzadeh, Enamul Hoque, Shafiq Joty. Arxiv 2023.
+- [DOMINO: A Dual-System for Multi-step Visual Language Reasoning](https://arxiv.org/abs/2310.02804). Peifeng Wang, Olga Golovneva, Armen Aghajanyan, Xiang Ren, Muhao Chen, Asli Celikyilmaz, Maryam Fazel-Zarandi. Arxiv 2023. 
+
 
 
 ### Large Vision-language Models 
