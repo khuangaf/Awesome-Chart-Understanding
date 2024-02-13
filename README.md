@@ -73,7 +73,7 @@ A curated list of recent and past chart understanding work. **The repository wil
 - [ChartLlama: A Multimodal LLM for Chart Understanding and Generation](https://arxiv.org/abs/2311.16483). Yucheng Han, Chi Zhang, Xin Chen, Xu Yang, Zhibin Wang, Gang Yu, Bin Fu, Hanwang Zhang. Arxiv 2023.
 - [MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning](https://arxiv.org/abs/2311.10774). Fuxiao Liu, Xiaoyang Wang, Wenlin Yao, Jianshu Chen, Kaiqiang Song, Sangwoo Cho, Yaser Yacoob, Dong Yu. Arxiv 2023.
 - [ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning](https://arxiv.org/abs/2401.02384). Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo. Arxiv 2024.
-- [FigurA11y: AI Assistance for Writing Scientific Alt Text](). Nikhil Singh, Andrew Head, Lucy Lu Wang, Jonathan Bragg. Arxiv 2024.
+- [FigurA11y: AI Assistance for Writing Scientific Alt Text](https://www.llwang.net/assets/pdf/2024_singh_figura11y_iui.pdf). Nikhil Singh, Andrew Head, Lucy Lu Wang, Jonathan Bragg. Arxiv 2024.
 
 **General**
 
