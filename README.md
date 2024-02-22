@@ -64,7 +64,7 @@ A curated list of recent and past chart understanding work. **The repository wil
 - [Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning](https://arxiv.org/abs/2312.10160). Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji. Arxiv 2023.
 - [Do LLMs Work on Charts? Designing Few-Shot Prompts for Chart Question Answering and Summarization](https://arxiv.org/abs/2312.10610). Xuan Long Do, Mohammad Hassanpour, Ahmed Masry, Parsa Kavehzadeh, Enamul Hoque, Shafiq Joty. Arxiv 2023.
 - [DOMINO: A Dual-System for Multi-step Visual Language Reasoning](https://arxiv.org/abs/2310.02804). Peifeng Wang, Olga Golovneva, Armen Aghajanyan, Xiang Ren, Muhao Chen, Asli Celikyilmaz, Maryam Fazel-Zarandi. Arxiv 2023. 
-
+- [Structchart: Perception, structuring, reasoning for visual chart understanding](https://arxiv.org/abs/2309.11268). Renqiu Xia, Bo Zhang, Haoyang Peng, Hancheng Ye, Xiangchao Yan, Peng Ye, Botian Shi, Yu Qiao, Junchi Yan. Arxiv 2023.
 
 
 ### Large Vision-language Models 
