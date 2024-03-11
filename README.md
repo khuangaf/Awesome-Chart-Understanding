@@ -36,8 +36,11 @@ A curated list of recent and past chart understanding work. **The repository wil
 
 ### Chart Captioning (Summarization)
 
+- [Figure Captioning with Relation Maps for Reasoning](https://openaccess.thecvf.com/content_WACV_2020/papers/Chen_Figure_Captioning_with_Relation_Maps_for_Reasoning_WACV_2020_paper.pdf). Charles Chen, Ruiyi Zhang, Eunyee Koh, Sungchul Kim, Scott Cohen, Ryan Rossi. WACV 2020.
 - [Chart-to-Text: Generating Natural Language Descriptions for Charts by Adapting the Transformer Model](https://aclanthology.org/2020.inlg-1.20/). Jason Obeid, Enamul Hoque. INLG 2020
+- [SciCap: Generating Captions for Scientific Figures](https://aclanthology.org/2021.findings-emnlp.277/). Ting-Yao Hsu, C Lee Giles, Ting-Hao Huang. EMNLP 2021
 - [Chart-to-Text: A Large-Scale Benchmark for Chart Summarization](https://aclanthology.org/2022.acl-long.277/). Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, Enamul Hoque, Shafiq Joty. ACL 2022.
+- [LineCap: Line Charts for Data Visualization Captioning Models](https://ieeexplore.ieee.org/abstract/document/9973197). Anita Mahinpei, Zona Kostic, Chris Tanner. 2022 IEEE VIS.
 - [VisText: A Benchmark for Semantically Rich Chart Captioning](https://aclanthology.org/2023.acl-long.401/). Benny Tang, Angie Boggust, Arvind Satyanarayan. ACL 2023.
 
 ### Chart Caption Factual Error Correction
