@@ -11,14 +11,19 @@ A curated list of recent and past chart understanding work based on our survey p
 
 
 ## Table of Contents
-*  [Tasks/ Resources](#tasks)
+*  [Tasks and Datasets](#tasks-and-datasets)
+	*  [Chart Question Answering](#chart-question-answering)
+	*  [Chart Captioning (Summarization)](#chart-captioning-summarization)
+	*  [Factual Inconsistency Detection for Chart Captioning](#factual-inconsistency-detection-for-chart-captioning)
+	*  [Chart Fact-checking](#chart-fact-checking)
+	*  [Chart Caption Factual Error Correction](#chart-caption-factual-error-correction)
 *  [Methods](#methods)
 	*  [Classification-based Methods](#classification-based-methods)
 	*  [Generation-based Methods](#generation-based-methods)
 *  [Evaluation](#evaluation)
 *  [Citation](#citation)
 
-## Tasks
+## Tasks and Datasets
 
 ### Chart Question Answering
 
@@ -124,7 +129,7 @@ A curated list of recent and past chart understanding work based on our survey p
 
   _Lei Li, Yuqi Wang, Runxin Xu, Peiyi Wang, Xiachong Feng, Lingpeng Kong, Qi Liu._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2403.00231'><img src='https://img.shields.io/badge/PDF-blue'></a>
 
-### Factual Inconsistency Detection for Fact-checking
+### Factual Inconsistency Detection for Chart Captioning
 
 - __Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning.__ 
 
