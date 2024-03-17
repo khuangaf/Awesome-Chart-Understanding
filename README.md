@@ -358,6 +358,21 @@ A curated list of recent and past chart understanding work based on our survey p
   _Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee._ <img src='https://img.shields.io/badge/NeurIPS-2023-yellow'> <a href='https://arxiv.org/abs/2304.08485'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://github.com/haotian-liu/LLaVA'><img src='https://img.shields.io/badge/Model-green'></a>
 
+- __mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality.__ 
+
+  _Qinghao Ye, Haiyang Xu, Guohai Xu, Jiabo Ye, Ming Yan, Yiyang Zhou, Junyang Wang, Anwen Hu, Pengcheng Shi, Yaya Shi, Chenliang Li, Yuanhong Xu, Hehong Chen, Junfeng Tian, Qian Qi, Ji Zhang, Fei Huang._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2304.14178'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/X-PLUG/mPLUG-Owl'><img src='https://img.shields.io/badge/Model-green'></a>
+
+- __mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration.__ 
+
+  _Qinghao Ye, Haiyang Xu, Jiabo Ye, Ming Yan, Anwen Hu, Haowei Liu, Qi Qian, Ji Zhang, Fei Huang, Jingren Zhou._ <img src='https://img.shields.io/badge/CVPR-2024-yellow'> <a href='https://arxiv.org/abs/2311.04257'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/X-PLUG/mPLUG-Owl'><img src='https://img.shields.io/badge/Model-green'></a>  
+
+- __SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models.__ 
+
+  _Ziyi Lin, Chris Liu, Renrui Zhang, Peng Gao, Longtian Qiu, Han Xiao, Han Qiu, Chen Lin, Wenqi Shao, Keqin Chen, Jiaming Han, Siyuan Huang, Yichi Zhang, Xuming He, Hongsheng Li, Yu Qiao._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2311.07575'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX'><img src='https://img.shields.io/badge/Model-green'></a>  
+
 - __Gemini: A Family of Highly Capable Multimodal Models.__ 
 
   _Gemini Team Google._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2312.11805'><img src='https://img.shields.io/badge/PDF-blue'></a>
