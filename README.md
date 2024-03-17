@@ -32,10 +32,12 @@ A curated list of recent and past chart understanding work based on our survey p
 - __DVQA: Understanding Data Visualizations via Question Answering.__ 
 
   _Kushal Kafle, Brian Price, Scott Cohen, Christopher Kanan._ <img src='https://img.shields.io/badge/CVPR-2018-yellow'> <a href='https://openaccess.thecvf.com/content_cvpr_2018/papers/Kafle_DVQA_Understanding_Data_CVPR_2018_paper.pdf'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/kushalkafle/DVQA_dataset'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 - __FigureQA: An Annotated Figure Dataset for Visual Reasoning.__ 
 
   _Samira Ebrahimi Kahou, Vincent Michalski, Adam Atkinson, Akos Kadar, Adam Trischler, Yoshua Bengio._ <img src='https://img.shields.io/badge/ICLR_Workshop-2018-yellow'> <a href='https://arxiv.org/abs/1710.07300'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://www.microsoft.com/en-us/research/project/figureqa-dataset/'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 - __LEAF-QA: Locate, Encode & Attend for Figure Question Answering.__ 
 
@@ -48,36 +50,49 @@ A curated list of recent and past chart understanding work based on our survey p
 - __PlotQA: Reasoning over Scientific Plots.__ 
 
   _Nitesh Methani, Pritha Ganguly, Mitesh M. Khapra, Pratyush Kumar._ <img src='https://img.shields.io/badge/WACV-2020-yellow'> <a href='https://arxiv.org/abs/1909.00997'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/NiteshMethani/PlotQA'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 - __MapQA: A Dataset for Question Answering on Choropleth Maps.__ 
 
   _Shuaichen Chang, David Palzer, Jialin Li, Eric Fosler-Lussier, Ningchuan Xiao._ <img src='https://img.shields.io/badge/Arxiv-2022-yellow'> <a href='https://arxiv.org/abs/2211.08545'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/OSU-slatelab/MapQA'><img src='https://img.shields.io/badge/Dataset-red'></a>
+  
 
 - __ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning.__ 
 
   _Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque._ <img src='https://img.shields.io/badge/ACL_Findings-2022-yellow'> <a href='https://aclanthology.org/2022.findings-acl.177/'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/vis-nlp/ChartQA'><img src='https://img.shields.io/badge/Dataset-red'></a>
+  
 
 - __SciGraphQA: A Large-Scale Synthetic Multi-Turn Question-Answering Dataset for Scientific Graphs.__
 
   _Shengzhi Li, Nima Tajbakhsh._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2308.03349'><img src='https://img.shields.io/badge/PDF-blue'></a>
-
+  <a href='https://github.com/findalexli/SciGraphQA'><img src='https://img.shields.io/badge/Dataset-red'></a>
+  
 
 
 - __MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning.__ 
 
   _Fuxiao Liu, Xiaoyang Wang, Wenlin Yao, Jianshu Chen, Kaiqiang Song, Sangwoo Cho, Yaser Yacoob, Dong Yu._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2311.10774'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/FuxiaoLiu/MMC'><img src='https://img.shields.io/badge/Dataset-red'></a>
+  
 
 - __MathVista: Evaluating Math Reasoning in Visual Contexts with GPT-4V, Bard, and Other Large Multimodal Models.__ 
 
   _Pan Lu, Hritik Bansal, Tony Xia, Jiacheng Liu, Chunyuan Li, Hannaneh Hajishirzi, Hao Cheng, Kai-Wei Chang, Michel Galley, Jianfeng Gao._ <img src='https://img.shields.io/badge/ICLR-2024-yellow'> <a href='https://arxiv.org/abs/2310.02255'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://huggingface.co/datasets/AI4Math/MathVista'><img src='https://img.shields.io/badge/Dataset-red'></a>
+
 
 - __ChartBench: A Benchmark for Complex Visual Reasoning in Charts.__ 
 
   _Zhengzhuo Xu, Sinan Du, Yiyan Qi, Chengjin Xu, Chun Yuan, Jian Guo._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2312.15915'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://huggingface.co/datasets/AI4Math/MathVista'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 - __Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models.__
 
   _Lei Li, Yuqi Wang, Runxin Xu, Peiyi Wang, Xiachong Feng, Lingpeng Kong, Qi Liu._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2403.00231'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://huggingface.co/datasets/MMInstruction/ArxivQA'><img src='https://img.shields.io/badge/Dataset-red'></a>
+  
 
 
 **Long-form Questions**  
@@ -85,6 +100,8 @@ A curated list of recent and past chart understanding work based on our survey p
 - __OpenCQA: Open-ended Question Answering with Charts.__ 
 
   _Shankar Kantharaj, Xuan Long Do, Rixie Tiffany Leong, Jia Qing Tan, Enamul Hoque, Shafiq Joty._ <img src='https://img.shields.io/badge/EMNLP-2022-yellow'> <a href='https://aclanthology.org/2022.emnlp-main.811/'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/vis-nlp/OpenCQA'><img src='https://img.shields.io/badge/Dataset-red'></a>
+
 
 ### Chart Captioning (Summarization)
 
@@ -92,9 +109,11 @@ A curated list of recent and past chart understanding work based on our survey p
 
   _Charles Chen, Ruiyi Zhang, Eunyee Koh, Sungchul Kim, Scott Cohen, Ryan Rossi._ <img src='https://img.shields.io/badge/WACV-2020-yellow'> <a href='https://openaccess.thecvf.com/content_WACV_2020/papers/Chen_Figure_Captioning_with_Relation_Maps_for_Reasoning_WACV_2020_paper.pdf'><img src='https://img.shields.io/badge/PDF-blue'></a>
 
+
 - __Chart-to-Text: Generating Natural Language Descriptions for Charts by Adapting the Transformer Model.__ 
 
   _Jason Obeid, Enamul Hoque._ <img src='https://img.shields.io/badge/INLG-2020-yellow'> <a href='https://aclanthology.org/2020.inlg-1.20/'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/JasonObeid/Chart2Text'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 - __What Will You Tell Me About the Chart? – Automated Description of Charts.__
 
@@ -103,38 +122,47 @@ A curated list of recent and past chart understanding work based on our survey p
 - __SciCap: Generating Captions for Scientific Figures.__ 
 
   _Ting-Yao Hsu, C Lee Giles, Ting-Hao Huang._ <img src='https://img.shields.io/badge/EMNLP-2021-yellow'> <a href='https://aclanthology.org/2021.findings-emnlp.277/'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/tingyaohsu/SciCap'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 - __Chart-to-Text: A Large-Scale Benchmark for Chart Summarization.__ 
 
   _Shankar Kantharaj, Rixie Tiffany Leong, Xiang Lin, Ahmed Masry, Megh Thakkar, Enamul Hoque, Shafiq Joty._ <img src='https://img.shields.io/badge/ACL-2022-yellow'> <a href='https://aclanthology.org/2022.acl-long.277/'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/vis-nlp/Chart-to-text'><img src='https://img.shields.io/badge/Dataset-red'></a>
+  
 
 - __LineCap: Line Charts for Data Visualization Captioning Models.__ 
 
   _Anita Mahinpei, Zona Kostic, Chris Tanner._ <img src='https://img.shields.io/badge/IEEE_VIS-2022-yellow'> <a href='https://ieeexplore.ieee.org/abstract/document/9973197'><img src='https://img.shields.io/badge/PDF-blue'></a>
-
+  <a href='https://github.com/anita76/LineCapDataset'><img src='https://img.shields.io/badge/Dataset-red'></a>
+  
 - __ChartSumm: A Comprehensive Benchmark for Automatic Chart Summarization of Long and Short Summaries.__
 
   _Raian Rahman, Rizvi Hasan, Abdullah Al Farhad, Md Tahmid Rahman Laskar, Md. Hamjajul Ashmafee, Abu Raihan Mostofa Kamal._ <img src='https://img.shields.io/badge/Canadian_AI-2023-yellow'> <a href='https://arxiv.org/abs/2304.13620'><img src='https://img.shields.io/badge/PDF-blue'></a>
-
+  <a href='https://github.com/pranonrahman/ChartSumm'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 - __VisText: A Benchmark for Semantically Rich Chart Captioning.__ 
 
   _Benny Tang, Angie Boggust, Arvind Satyanarayan._ <img src='https://img.shields.io/badge/ACL-2023-yellow'> <a href='https://aclanthology.org/2023.acl-long.401/'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/mitvis/vistext'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 - __FigCaps-HF: A Figure-to-Caption Generative Framework and Benchmark with Human Feedback.__
 
   _Ashish Singh, Prateek Agarwal, Zixuan Huang, Arpita Singh, Tong Yu, Sungchul Kim, Victor Bursztyn, Nikos Vlassis, Ryan A. Rossi._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2307.10867'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://figcapshf.github.io/'><img src='https://img.shields.io/badge/Dataset-red'></a>
+  
 
 - __Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models.__
 
   _Lei Li, Yuqi Wang, Runxin Xu, Peiyi Wang, Xiachong Feng, Lingpeng Kong, Qi Liu._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2403.00231'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://huggingface.co/datasets/MMInstruction/ArxivCap'><img src='https://img.shields.io/badge/Dataset-red'></a>
+  
 
 ### Factual Inconsistency Detection for Chart Captioning
 
 - __Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning.__ 
 
   _Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2312.10160'><img src='https://img.shields.io/badge/PDF-blue'></a>
-
+  <a href='https://huggingface.co/datasets/khhuang/CHOCOLATE'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 
 ### Chart Fact-checking
@@ -142,6 +170,7 @@ A curated list of recent and past chart understanding work based on our survey p
 - __Reading and Reasoning over Chart Images for Evidence-based Automated Fact-Checking.__ 
 
   _Mubasharar Akhtar, Oana Cocarascu, Elena Simperl._ <img src='https://img.shields.io/badge/EACL_Findings-2023-yellow'> <a href='https://aclanthology.org/2023.findings-eacl.30/'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/mubasharaak/ChartFC_chartBERT'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 - __ChartCheck: An Evidence-Based Fact-Checking Dataset over Real-World Chart Images.__ 
 
@@ -153,6 +182,7 @@ A curated list of recent and past chart understanding work based on our survey p
 - __Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning.__ 
 
   _Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2312.10160'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://huggingface.co/datasets/khhuang/CHOCOLATE'><img src='https://img.shields.io/badge/Dataset-red'></a>
   
 ## Methods
 
