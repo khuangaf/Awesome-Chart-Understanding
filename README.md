@@ -183,7 +183,7 @@ A curated list of recent and past chart understanding work based on our survey p
 
   _Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2312.10160'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://huggingface.co/datasets/khhuang/CHOCOLATE'><img src='https://img.shields.io/badge/Dataset-red'></a>
-  
+
 ## Methods
 
 ### Classification-based Methods
@@ -196,41 +196,47 @@ A curated list of recent and past chart understanding work based on our survey p
 - __A Simple Neural Network Module for Relational Reasoning.__ 
 
   _Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap._ <img src='https://img.shields.io/badge/NeurIPS-2017-yellow'> <a href='https://papers.nips.cc/paper_files/paper/2017/hash/e6acf4b0f69f6f6e60e9a815938aa1ff-Abstract.html'><img src='https://img.shields.io/badge/PDF-blue'></a>
-
+  <a href='https://github.com/kimhc6028/relational-networks'><img src='https://img.shields.io/badge/Model-green'></a>
+  
 
 - __DVQA: Understanding Data Visualizations via Question Answering.__ 
 
   _Kushal Kafle, Brian Price, Scott Cohen, Christopher Kanan._ <img src='https://img.shields.io/badge/CVPR-2018-yellow'> <a href='https://openaccess.thecvf.com/content_cvpr_2018/papers/Kafle_DVQA_Understanding_Data_CVPR_2018_paper.pdf'><img src='https://img.shields.io/badge/PDF-blue'></a>
-
+  <a href='https://github.com/kushalkafle/DVQA_dataset'><img src='https://img.shields.io/badge/Model-green'></a>
 
 - __MapQA: A Dataset for Question Answering on Choropleth Maps.__ 
 
   _Shuaichen Chang, David Palzer, Jialin Li, Eric Fosler-Lussier, Ningchuan Xiao._ <img src='https://img.shields.io/badge/Arxiv-2022-yellow'> <a href='https://arxiv.org/abs/2211.08545'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/OSU-slatelab/MapQA'><img src='https://img.shields.io/badge/Model-green'></a>
 
 #### Dynamic Encoding
 
 - __DVQA: Understanding Data Visualizations via Question Answering.__ 
 
   _Kushal Kafle, Brian Price, Scott Cohen, Christopher Kanan._ <img src='https://img.shields.io/badge/CVPR-2018-yellow'> <a href='https://openaccess.thecvf.com/content_cvpr_2018/papers/Kafle_DVQA_Understanding_Data_CVPR_2018_paper.pdf'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/kushalkafle/DVQA_dataset'><img src='https://img.shields.io/badge/Model-green'></a>
 
 - __Answering Questions about Data Visualizations using Efficient Bimodal Fusion.__ 
 
   _Kushal Kafle, Robik Shrestha, Brian Price, Scott Cohen, Christopher Kanan._ <img src='https://img.shields.io/badge/WACV-2020-yellow'> <a href='https://openaccess.thecvf.com/content_WACV_2020/papers/Kafle_Answering_Questions_about_Data_Visualizations_using_Efficient_Bimodal_Fusion_WACV_2020_paper.pdf'><img src='https://img.shields.io/badge/PDF-blue'></a>  
-
+  <a href='https://github.com/kushalkafle/PReFIL'><img src='https://img.shields.io/badge/Model-green'></a>
 
 - __LEAF-QA: Locate, Encode & Attend for Figure Question Answering.__ 
 
   _Ritwick Chaudhry, Sumit Shekhar, Utkarsh Gupta, Pranav Maneriker, Prann Bansal, Ajay Joshi._ <img src='https://img.shields.io/badge/WACV-2020-yellow'> <a href='https://openaccess.thecvf.com/content_WACV_2020/papers/Chaudhry_LEAF-QA_Locate_Encode__Attend_for_Figure_Question_Answering_WACV_2020_paper.pdf'><img src='https://img.shields.io/badge/PDF-blue'></a>
 
+
 - __PlotQA: Reasoning over Scientific Plots.__ 
 
   _Nitesh Methani, Pritha Ganguly, Mitesh M. Khapra, Pratyush Kumar._ <img src='https://img.shields.io/badge/WACV-2020-yellow'> <a href='https://arxiv.org/abs/1909.00997'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/NiteshMethani/PlotQA'><img src='https://img.shields.io/badge/Model-green'></a>
 
 #### Pre-trained
 
 - __TaPas: Weakly Supervised Table Parsing via Pre-training.__ 
 
   _Jonathan Herzig, Pawel Krzysztof Nowak, Thomas Müller, Francesco Piccinno, Julian Eisenschlos._ <img src='https://img.shields.io/badge/ACL-2020-yellow'> <a href='https://aclanthology.org/2020.acl-main.398/'><img src='https://img.shields.io/badge/PDF-blue'></a>  
+  <a href='https://github.com/google-research/tapas'><img src='https://img.shields.io/badge/Model-green'></a>
 
 - __STL-CQA: Structure-based Transformers with Localization and Encoding for Chart Question Answering.__ 
 
@@ -239,6 +245,7 @@ A curated list of recent and past chart understanding work based on our survey p
 - __ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning.__ 
 
   _Ahmed Masry, Xuan Long Do, Jia Qing Tan, Shafiq Joty, Enamul Hoque._ <img src='https://img.shields.io/badge/ACL_Findings-2022-yellow'> <a href='https://aclanthology.org/2022.findings-acl.177/'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/vis-nlp/ChartQA'><img src='https://img.shields.io/badge/Model-green'></a>
 
 ### Generation-based Methods
 
@@ -247,7 +254,7 @@ A curated list of recent and past chart understanding work based on our survey p
 - __SciCap: Generating Captions for Scientific Figures.__ 
 
   _Ting-Yao Hsu, C Lee Giles, Ting-Hao Huang._ <img src='https://img.shields.io/badge/EMNLP-2021-yellow'> <a href='https://aclanthology.org/2021.findings-emnlp.277/'><img src='https://img.shields.io/badge/PDF-blue'></a>
-
+  <a href='https://github.com/tingyaohsu/SciCap'><img src='https://img.shields.io/badge/Model-green'></a>
 
 - __Figure Captioning with Relation Maps for Reasoning.__ 
 
@@ -256,34 +263,41 @@ A curated list of recent and past chart understanding work based on our survey p
 - __Chart-to-Text: Generating Natural Language Descriptions for Charts by Adapting the Transformer Model.__ 
 
   _Jason Obeid, Enamul Hoque._ <img src='https://img.shields.io/badge/INLG-2020-yellow'> <a href='https://aclanthology.org/2020.inlg-1.20/'><img src='https://img.shields.io/badge/PDF-blue'></a>
-
+  <a href='https://github.com/JasonObeid/Chart2Text'><img src='https://img.shields.io/badge/Model-green'></a>
 
 #### Pre-trained
 
 - __Enhanced Chart Understanding via Visual Language Pre-training on Plot Table Pairs.__ 
 
   _Mingyang Zhou, Yi Fung, Long Chen, Christopher Thomas, Heng Ji, Shih-Fu Chang._ <img src='https://img.shields.io/badge/ACL_Findings-2023-yellow'> <a href='https://aclanthology.org/2023.findings-acl.85/'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/zmykevin/ACL2023_ChartT5'><img src='https://img.shields.io/badge/Model-green'></a>
 
 - __MatCha: Enhancing Visual Language Pretraining with Math Reasoning and Chart Derendering.__
 
   _Fangyu Liu, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar Joshi, Yasemin Altun, Nigel Collier, Julian Eisenschlos._ <img src='https://img.shields.io/badge/ACL-2023-yellow'> <a href='https://aclanthology.org/2023.acl-long.714/'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='google/matcha-base'><img src='https://img.shields.io/badge/Model-green'></a>
 
 - __UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning.__
 
   _Ahmed Masry, Parsa Kavehzadeh, Xuan Long Do, Enamul Hoque, Shafiq Joty._ <img src='https://img.shields.io/badge/EMNLP-2023-yellow'> <a href='https://aclanthology.org/2023.emnlp-main.906/'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/vis-nlp/UniChart'><img src='https://img.shields.io/badge/Model-green'></a>
 
 - __Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding.__
 
   _Kenton Lee, Mandar Joshi, Iulia Raluca Turc, Hexiang Hu, Fangyu Liu, Julian Martin Eisenschlos, Urvashi Khandelwal, Peter Shaw, Ming-Wei Chang, Kristina Toutanova._ <img src='https://img.shields.io/badge/ICML-2023-yellow'> <a href='https://proceedings.mlr.press/v202/lee23g/lee23g.pdf'><img src='https://img.shields.io/badge/PDF-blue'></a>
-
+  <a href='https://huggingface.co/google/pix2struct-base'><img src='https://img.shields.io/badge/Model-green'></a>
+  
 ### Tool Augmentation
 - __DePlot: One-shot visual language reasoning by plot-to-table translation.__
 
   _Fangyu Liu, Julian Eisenschlos, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar Joshi, Wenhu Chen, Nigel Collier, Yasemin Altun._ <img src='https://img.shields.io/badge/ACL_Findings-2023-yellow'> <a href='https://aclanthology.org/2023.findings-acl.660/'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://huggingface.co/google/deplot'><img src='https://img.shields.io/badge/Model-green'></a>
 
+  
 - __Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning.__
 
   _Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2312.10160'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://huggingface.co/khhuang/chart-to-table'><img src='https://img.shields.io/badge/Model-green'></a>
 
 - __Do LLMs Work on Charts? Designing Few-Shot Prompts for Chart Question Answering and Summarization.__
 
@@ -292,6 +306,8 @@ A curated list of recent and past chart understanding work based on our survey p
 - __DOMINO: A Dual-System for Multi-step Visual Language Reasoning.__
 
   _Peifeng Wang, Olga Golovneva, Armen Aghajanyan, Xiang Ren, Muhao Chen, Asli Celikyilmaz, Maryam Fazel-Zarandi._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2310.02804'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/facebookresearch/dual-system-for-visual-language-reasoning'><img src='https://img.shields.io/badge/Model-green'></a>
+  
 
 - __StructChart: Perception, Structuring, Reasoning for Visual Chart Understanding.__
 
@@ -305,41 +321,57 @@ A curated list of recent and past chart understanding work based on our survey p
 - __ChartLlama: A Multimodal LLM for Chart Understanding and Generation.__ 
 
   _Yucheng Han, Chi Zhang, Xin Chen, Xu Yang, Zhibin Wang, Gang Yu, Bin Fu, Hanwang Zhang._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2311.16483'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/tingxueronghua/ChartLlama-code'><img src='https://img.shields.io/badge/Model-green'></a>
   
 - __MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning.__ 
 
   _Fuxiao Liu, Xiaoyang Wang, Wenlin Yao, Jianshu Chen, Kaiqiang Song, Sangwoo Cho, Yaser Yacoob, Dong Yu._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2311.10774'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/FuxiaoLiu/MMC'><img src='https://img.shields.io/badge/Model-green'></a>
   
 - __ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning.__ 
 
   _Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2401.02384'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/OpenGVLab/ChartAst'><img src='https://img.shields.io/badge/Model-green'></a>
   
-- __ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning.__ 
-
-  _Renqiu Xia, Bo Zhang, Hancheng Ye, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Min Dou, Botian Shi, Junchi Yan, Yu Qiao._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2402.12185'><img src='https://img.shields.io/badge/PDF-blue'></a>
   
 - __ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning.__ 
 
   _Ahmed Masry, Mehrad Shahmohammadi, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2403.09028'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/vis-nlp/ChartInstruct'><img src='https://img.shields.io/badge/Model-green'></a>
   
+  
+- __ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning.__ 
+
+  _Renqiu Xia, Bo Zhang, Hancheng Ye, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Min Dou, Botian Shi, Junchi Yan, Yu Qiao._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2402.12185'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/UniModal4Reasoning/ChartVLM'><img src='https://img.shields.io/badge/Model-green'></a>
+
 - __FigurA11y: AI Assistance for Writing Scientific Alt Text.__ 
 
   _Nikhil Singh, Andrew Head, Lucy Lu Wang, Jonathan Bragg._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://www.llwang.net/assets/pdf/2024_singh_figura11y_iui.pdf'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/allenai/figura11y'><img src='https://img.shields.io/badge/Model-green'></a>
+  
 
 **General-purpose**
 
 - __Visual Instruction Tuning.__ 
 
   _Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee._ <img src='https://img.shields.io/badge/NeurIPS-2023-yellow'> <a href='https://arxiv.org/abs/2304.08485'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/haotian-liu/LLaVA'><img src='https://img.shields.io/badge/Model-green'></a>
 
 - __Gemini: A Family of Highly Capable Multimodal Models.__ 
 
   _Gemini Team Google._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2312.11805'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://gemini.google.com/'><img src='https://img.shields.io/badge/Interface-darkgreen'></a>
 
 - __GPT-4V.__ 
 
   _OpenAI._ <img src='https://img.shields.io/badge/Year-2023-yellow'> <a href='https://openai.com/research/gpt-4v-system-card'><img src='https://img.shields.io/badge/Website-blue'></a>
+  <a href='https://chat.openai.com/'><img src='https://img.shields.io/badge/Interface-darkgreen'></a>
 
+- __Introducing the next generation of Claude (Claude 3).__ 
+
+  _Antropic._ <img src='https://img.shields.io/badge/Year-2023-yellow'> <a href='https://www.anthropic.com/news/claude-3-family'><img src='https://img.shields.io/badge/Website-blue'></a>
+  <a href='https://claude.ai/'><img src='https://img.shields.io/badge/Interface-darkgreen'></a>  
 
 ## Evaluation
 
@@ -348,7 +380,7 @@ A curated list of recent and past chart understanding work based on our survey p
 - __Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning.__ 
 
   _Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2312.10160'><img src='https://img.shields.io/badge/PDF-blue'></a>
-
+  <a href='https://huggingface.co/khhuang/chartve'><img src='https://img.shields.io/badge/Model-green'></a>
 
 ## Citation
 
