@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 
-A curated list of recent and past chart understanding work based on our survey paper: From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models.
+A curated list of recent and past chart understanding work based on our survey paper: [From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models](https://arxiv.org/abs/2403.12027).
 
 **The repository will be continuously updated 📝. Don't forget to hit the ⭐️ and stay tuned!**
 
@@ -400,5 +400,12 @@ A curated list of recent and past chart understanding work based on our survey p
 ## Citation
 
 ```bibtex
-
+@misc{huang-etal-2024-chart,
+    title = "Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning",
+    author = "Huang, Kung-Hsiang and Chan, Hou Pong and Fung, Yi R. and Qiu, Haoyi and Zhou, Mingyang and Joty, Shafiq and Chang, Shih-Fu and Ji, Heng",
+    year={2024},
+    eprint={2403.12027},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
 ```
