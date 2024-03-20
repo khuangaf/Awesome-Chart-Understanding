@@ -318,6 +318,7 @@ A curated list of recent and past chart understanding work based on our survey p
 
 **Tailored for Chart Understanding** 
 
+
 - __ChartLlama: A Multimodal LLM for Chart Understanding and Generation.__ 
 
   _Yucheng Han, Chi Zhang, Xin Chen, Xu Yang, Zhibin Wang, Gang Yu, Bin Fu, Hanwang Zhang._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2311.16483'><img src='https://img.shields.io/badge/PDF-blue'></a>
@@ -349,7 +350,10 @@ A curated list of recent and past chart understanding work based on our survey p
 
   _Nikhil Singh, Andrew Head, Lucy Lu Wang, Jonathan Bragg._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://www.llwang.net/assets/pdf/2024_singh_figura11y_iui.pdf'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://github.com/allenai/figura11y'><img src='https://img.shields.io/badge/Model-green'></a>
-  
+
+- __Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs.__ 
+
+  _Victor Carbune, Hassan Mansoor, Fangyu Liu, Rahul Aralikatte, Gilles Baechler, Jindong Chen, Abhanshu Sharma._ <img src='https://img.shields.io/badge/NAACL Findings-2024-yellow'> <a href='https://arxiv.org/abs/2403.12596'><img src='https://img.shields.io/badge/PDF-blue'></a>  
 
 **General-purpose**
 
@@ -373,9 +377,6 @@ A curated list of recent and past chart understanding work based on our survey p
   _Ziyi Lin, Chris Liu, Renrui Zhang, Peng Gao, Longtian Qiu, Han Xiao, Han Qiu, Chen Lin, Wenqi Shao, Keqin Chen, Jiaming Han, Siyuan Huang, Yichi Zhang, Xuming He, Hongsheng Li, Yu Qiao._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2311.07575'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX'><img src='https://img.shields.io/badge/Model-green'></a>
 
-- __Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs.__ 
-
-  _Victor Carbune, Hassan Mansoor, Fangyu Liu, Rahul Aralikatte, Gilles Baechler, Jindong Chen, Abhanshu Sharma._ <img src='https://img.shields.io/badge/NAACL Findings-2024-yellow'> <a href='https://arxiv.org/abs/2403.12596'><img src='https://img.shields.io/badge/PDF-blue'></a>
 
 - __Gemini: A Family of Highly Capable Multimodal Models.__ 
 
