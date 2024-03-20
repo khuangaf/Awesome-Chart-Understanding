@@ -371,7 +371,11 @@ A curated list of recent and past chart understanding work based on our survey p
 - __SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models.__ 
 
   _Ziyi Lin, Chris Liu, Renrui Zhang, Peng Gao, Longtian Qiu, Han Xiao, Han Qiu, Chen Lin, Wenqi Shao, Keqin Chen, Jiaming Han, Siyuan Huang, Yichi Zhang, Xuming He, Hongsheng Li, Yu Qiao._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2311.07575'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  <a href='https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX'><img src='https://img.shields.io/badge/Model-green'></a>  
+  <a href='https://github.com/Alpha-VLLM/LLaMA2-Accessory/tree/main/SPHINX'><img src='https://img.shields.io/badge/Model-green'></a>
+
+- __Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs.__ 
+
+  _Victor Carbune, Hassan Mansoor, Fangyu Liu, Rahul Aralikatte, Gilles Baechler, Jindong Chen, Abhanshu Sharma._ <img src='https://img.shields.io/badge/NAACL Findings-2024-yellow'> <a href='https://arxiv.org/abs/2403.12596'><img src='https://img.shields.io/badge/PDF-blue'></a>
 
 - __Gemini: A Family of Highly Capable Multimodal Models.__ 
 
