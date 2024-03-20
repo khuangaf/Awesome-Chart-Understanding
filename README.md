@@ -405,7 +405,7 @@ A curated list of recent and past chart understanding work based on our survey p
 
 ```bibtex
 @misc{huang-etal-2024-chart,
-    title = "Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning",
+    title = "From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models",
     author = "Huang, Kung-Hsiang and Chan, Hou Pong and Fung, Yi R. and Qiu, Haoyi and Zhou, Mingyang and Joty, Shafiq and Chang, Shih-Fu and Ji, Heng",
     year={2024},
     eprint={2403.12027},
