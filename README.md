@@ -375,7 +375,7 @@ A curated list of recent and past chart understanding work based on our survey p
 
 - __mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding__ 
 
-  _Anwen Hu, Haiyang Xu, Jiabo Ye, Ming Yan, Liang Zhang, Bo Zhang, Chen Li, Ji Zhang, Qin Jin, Fei Huang, Jingren Zhou._ <a href='https://arxiv.org/abs/2403.12895'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  _Anwen Hu, Haiyang Xu, Jiabo Ye, Ming Yan, Liang Zhang, Bo Zhang, Chen Li, Ji Zhang, Qin Jin, Fei Huang, Jingren Zhou._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2403.12895'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5'><img src='https://img.shields.io/badge/Model-green'></a>  
 
 - __SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models.__ 
