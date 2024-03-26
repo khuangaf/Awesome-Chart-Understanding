@@ -21,6 +21,7 @@ A curated list of recent and past chart understanding work based on our survey p
 *  [Methods](#methods)
 	*  [Classification-based Methods](#classification-based-methods)
 	*  [Generation-based Methods](#generation-based-methods)
+ 	*  [Tool Augmentation](#tool-augmentation)
 *  [Evaluation](#evaluation)
 *  [Citation](#citation)
 
