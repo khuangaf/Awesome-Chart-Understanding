@@ -288,6 +288,11 @@ A curated list of recent and past chart understanding work based on our survey p
 
   _Kenton Lee, Mandar Joshi, Iulia Raluca Turc, Hexiang Hu, Fangyu Liu, Julian Martin Eisenschlos, Urvashi Khandelwal, Peter Shaw, Ming-Wei Chang, Kristina Toutanova._ <img src='https://img.shields.io/badge/ICML-2023-yellow'> <a href='https://proceedings.mlr.press/v202/lee23g/lee23g.pdf'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://huggingface.co/google/pix2struct-base'><img src='https://img.shields.io/badge/Model-green'></a>
+
+- __Synthesize Step-by-Step: Tools, Templates and LLMs as Data Generators for Reasoning-Based Chart VQA.__
+
+  _Zhuowan Li, Bhavan Jasani, Peng Tang, Shabnam Ghadar._ <img src='https://img.shields.io/badge/CVPR-2024-yellow'> <a href='https://arxiv.org/abs/2403.16385'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  
   
 ### Tool Augmentation
 - __DePlot: One-shot visual language reasoning by plot-to-table translation.__
