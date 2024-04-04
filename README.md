@@ -267,7 +267,12 @@ A curated list of recent and past chart understanding work based on our survey p
   _Jason Obeid, Enamul Hoque._ <img src='https://img.shields.io/badge/INLG-2020-yellow'> <a href='https://aclanthology.org/2020.inlg-1.20/'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://github.com/JasonObeid/Chart2Text'><img src='https://img.shields.io/badge/Model-green'></a>
 
+- __Tackling Hallucinations in Neural Chart Summarization.__ 
+
+ _Saad Obaid ul Islam, Iza Škrjanec, Ondřej Dušek, Vera Demberg_ <img src='https://img.shields.io/badge/INLG-2023-yellow'> <a href='https://aclanthology.org/2023.inlg-main.30/'><img src='https://img.shields.io/badge/PDF-blue'></a> <a href='[https://github.com/JasonObeid/Chart2Text](https://github.com/WorldHellow/Hallucinations-C2T)'><img src='https://img.shields.io/badge/Model-green'></a>
+ 
 #### Pre-trained
+
 
 - __Enhanced Chart Understanding via Visual Language Pre-training on Plot Table Pairs.__ 
 
@@ -278,7 +283,7 @@ A curated list of recent and past chart understanding work based on our survey p
 
   _Fangyu Liu, Francesco Piccinno, Syrine Krichene, Chenxi Pang, Kenton Lee, Mandar Joshi, Yasemin Altun, Nigel Collier, Julian Eisenschlos._ <img src='https://img.shields.io/badge/ACL-2023-yellow'> <a href='https://aclanthology.org/2023.acl-long.714/'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='google/matcha-base'><img src='https://img.shields.io/badge/Model-green'></a>
-
+  
 - __UniChart: A Universal Vision-language Pretrained Model for Chart Comprehension and Reasoning.__
 
   _Ahmed Masry, Parsa Kavehzadeh, Xuan Long Do, Enamul Hoque, Shafiq Joty._ <img src='https://img.shields.io/badge/EMNLP-2023-yellow'> <a href='https://aclanthology.org/2023.emnlp-main.906/'><img src='https://img.shields.io/badge/PDF-blue'></a>
@@ -292,6 +297,9 @@ A curated list of recent and past chart understanding work based on our survey p
 - __Synthesize Step-by-Step: Tools, Templates and LLMs as Data Generators for Reasoning-Based Chart VQA.__
 
   _Zhuowan Li, Bhavan Jasani, Peng Tang, Shabnam Ghadar._ <img src='https://img.shields.io/badge/CVPR-2024-yellow'> <a href='https://arxiv.org/abs/2403.16385'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  
+
+
   
   
 ### Tool Augmentation
