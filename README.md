@@ -107,6 +107,10 @@ A curated list of recent and past chart understanding work based on our survey p
 
 ### Chart Captioning (Summarization)
 
+- __Neural Data-Driven Captioning of Time-Series Line Charts.__ 
+
+  _Andrea Spreafico, Giuseppe Carenini._ <img src='https://img.shields.io/badge/AVI-2020-yellow'> <a href='https://dl.acm.org/doi/abs/10.1145/3399715.3399829'><img src='https://img.shields.io/badge/PDF-blue'></a> 
+
 - __Figure Captioning with Relation Maps for Reasoning.__ 
 
   _Charles Chen, Ruiyi Zhang, Eunyee Koh, Sungchul Kim, Scott Cohen, Ryan Rossi._ <img src='https://img.shields.io/badge/WACV-2020-yellow'> <a href='https://openaccess.thecvf.com/content_WACV_2020/papers/Chen_Figure_Captioning_with_Relation_Maps_for_Reasoning_WACV_2020_paper.pdf'><img src='https://img.shields.io/badge/PDF-blue'></a>
