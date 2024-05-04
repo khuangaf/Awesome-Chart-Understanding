@@ -333,6 +333,12 @@ A curated list of recent and past chart understanding work based on our survey p
   _Renqiu Xia, Bo Zhang, Haoyang Peng, Hancheng Ye, Xiangchao Yan, Peng Ye, Botian Shi, Yu Qiao, Junchi Yan._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2309.11268'><img src='https://img.shields.io/badge/PDF-blue'></a>
 
 
+- __SIMPLOT: Enhancing Chart Question Answering by Distilling Essentials.__
+
+  _Wonjoong Kim, Sangwu Park, Yeonjun In, Seokwon Han, Chanyoung Park._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2405.00021'><img src='https://img.shields.io/badge/PDF-blue'></a>
+
+
+
 ### Large Vision-language Models
 
 **Tailored for Chart Understanding** 
