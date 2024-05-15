@@ -95,7 +95,11 @@ A curated list of recent and past chart understanding work based on our survey p
   _Lei Li, Yuqi Wang, Runxin Xu, Peiyi Wang, Xiachong Feng, Lingpeng Kong, Qi Liu._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2403.00231'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://huggingface.co/datasets/MMInstruction/ArxivQA'><img src='https://img.shields.io/badge/Dataset-red'></a>
   
+- __Evaluating Task-based Effectiveness of MLLMs on Charts.__
 
+  _Yifan Wu, Lutao Yan, Yuyu Luo, Yunhai Wang, Nan Tang._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2405.07001'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://anonymous.4open.science/r/ChartInsights-D43E'><img src='https://img.shields.io/badge/Dataset-red'></a>
+  
 
 **Long-form Questions**  
 
