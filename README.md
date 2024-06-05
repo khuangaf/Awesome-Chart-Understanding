@@ -23,6 +23,7 @@ A curated list of recent and past chart understanding work based on our survey p
 	*  [Generation-based Methods](#generation-based-methods)
  	*  [Tool Augmentation](#tool-augmentation)
 *  [Evaluation](#evaluation)
+*  [Analysis](#analysis)
 *  [Citation](#citation)
 
 ## Tasks and Datasets
@@ -171,7 +172,7 @@ A curated list of recent and past chart understanding work based on our survey p
 
 - __Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning.__ 
 
-  _Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2312.10160'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  _Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji._ <img src='https://img.shields.io/badge/ACL_Findings-2024-yellow'> <a href='https://arxiv.org/abs/2312.10160'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://huggingface.co/datasets/khhuang/CHOCOLATE'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 
@@ -191,7 +192,7 @@ A curated list of recent and past chart understanding work based on our survey p
 
 - __Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning.__ 
 
-  _Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2312.10160'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  _Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji._ <img src='https://img.shields.io/badge/ACL_Findings-2024-yellow'> <a href='https://arxiv.org/abs/2312.10160'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://huggingface.co/datasets/khhuang/CHOCOLATE'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 ## Methods
@@ -319,7 +320,7 @@ A curated list of recent and past chart understanding work based on our survey p
   
 - __Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning.__
 
-  _Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2312.10160'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  _Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji._ <img src='https://img.shields.io/badge/ACL_Findings-2024-yellow'> <a href='https://arxiv.org/abs/2312.10160'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://huggingface.co/khhuang/chart-to-table'><img src='https://img.shields.io/badge/Model-green'></a>
 
 - __Do LLMs Work on Charts? Designing Few-Shot Prompts for Chart Question Answering and Summarization.__
@@ -443,9 +444,16 @@ A curated list of recent and past chart understanding work based on our survey p
 
 - __Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning.__ 
 
-  _Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2312.10160'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  _Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji._ <img src='https://img.shields.io/badge/ACL_Findings-2024-yellow'> <a href='https://arxiv.org/abs/2312.10160'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://huggingface.co/khhuang/chartve'><img src='https://img.shields.io/badge/Model-green'></a>
 
+## Analysis
+
+- __Are Large Vision Language Models up to the Challenge of Chart Comprehension and Reasoning? An Extensive Investigation into the Capabilities and Limitations of LVLMs.__
+
+  _Mohammed Saidul Islam, Raian Rahman, Ahmed Masry, Md Tahmid Rahman Laskar, Mir Tafseer Nayeem, Enamul Hoque._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2406.00257'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  
+  
 ## Citation
 
 ```bibtex
