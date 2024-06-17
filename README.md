@@ -18,6 +18,7 @@ A curated list of recent and past chart understanding work based on our survey p
 	*  [Factual Inconsistency Detection for Chart Captioning](#factual-inconsistency-detection-for-chart-captioning)
 	*  [Chart Fact-checking](#chart-fact-checking)
 	*  [Chart Caption Factual Error Correction](#chart-caption-factual-error-correction)
+ 	*  [Chart to Code](#chart-to-code)
 *  [Methods](#methods)
 	*  [Classification-based Methods](#classification-based-methods)
 	*  [Generation-based Methods](#generation-based-methods)
@@ -194,6 +195,14 @@ A curated list of recent and past chart understanding work based on our survey p
 
   _Kung-Hsiang Huang, Mingyang Zhou, Hou Pong Chan, Yi R. Fung, Zhenhailong Wang, Lingyu Zhang, Shih-Fu Chang, Heng Ji._ <img src='https://img.shields.io/badge/ACL_Findings-2024-yellow'> <a href='https://arxiv.org/abs/2312.10160'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://huggingface.co/datasets/khhuang/CHOCOLATE'><img src='https://img.shields.io/badge/Dataset-red'></a>
+
+### Chart to Code
+
+- __ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation.__
+
+  _Chufan Shi, Cheng Yang, Yaxin Liu, Bo Shui, Junjie Wang, Mohan Jing, Linran Xu, Xinyu Zhu, Siheng Li, Yuxiang Zhang, Gongye Liu, Xiaomei Nie, Deng Cai, Yujiu Yang_
+  <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2406.09961'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/ChartMimic/ChartMimic'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 ## Methods
 
