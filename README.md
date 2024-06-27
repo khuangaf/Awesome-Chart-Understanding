@@ -101,6 +101,11 @@ A curated list of recent and past chart understanding work based on our survey p
 
   _Yifan Wu, Lutao Yan, Yuyu Luo, Yunhai Wang, Nan Tang._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2405.07001'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://anonymous.4open.science/r/ChartInsights-D43E'><img src='https://img.shields.io/badge/Dataset-red'></a>
+
+- __CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs.__
+
+  _Zirui Wang, Mengzhou Xia, Luxi He, Howard Chen, Yitao Liu, Richard Zhu, Kaiqu Liang, Xindi Wu, Haotian Liu, Sadhika Malladi, Alexis Chevalier, Sanjeev Arora, Danqi Chen._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/pdf/2406.18521'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://huggingface.co/datasets/princeton-nlp/CharXiv'><img src='https://img.shields.io/badge/Dataset-red'></a>
   
 
 **Long-form Questions**  
