@@ -409,6 +409,11 @@ A curated list of recent and past chart understanding work based on our survey p
   _Liang Zhang, Anwen Hu, Haiyang Xu, Ming Yan, Yichen Xu, Qin Jin, Ji Zhang, Fei Huang._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2404.16635'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/TinyChart'><img src='https://img.shields.io/badge/Model-green'></a>
 
+- __ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild.__ 
+
+  _Ahmed Masry, Megh Thakkar, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq Joty._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2407.04172v1'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/vis-nlp/ChartGemma'><img src='https://img.shields.io/badge/Model-green'></a>
+
 **General-purpose**
 
 - __Visual Instruction Tuning.__ 
