@@ -359,7 +359,7 @@ A curated list of recent and past chart understanding work based on our survey p
 - __OneChart: Purify the Chart Structural Extraction via One Auxiliary Token
 .__
 
-  _Jinyue Chen, Lingyu Kong, Haoran Wei, Chenglong Liu, Zheng Ge, Liang Zhao, Jianjian Sun, Chunrui Han, Xiangyu Zhang._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2404.09987'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  _Jinyue Chen, Lingyu Kong, Haoran Wei, Chenglong Liu, Zheng Ge, Liang Zhao, Jianjian Sun, Chunrui Han, Xiangyu Zhang._ <img src='https://img.shields.io/badge/ACM_MM-2024-yellow'> <a href='https://arxiv.org/abs/2404.09987'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://huggingface.co/kppkkp/OneChart/tree/main'><img src='https://img.shields.io/badge/Model-green'></a>
   <a href='https://drive.google.com/drive/folders/1YmOvxq0DfOA9YKoyCZDjpnTIkPNoyegQ?usp=sharing'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
