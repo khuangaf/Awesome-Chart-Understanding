@@ -414,8 +414,8 @@ A curated list of recent and past chart understanding work based on our survey p
   _Ahmed Masry, Megh Thakkar, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq Joty._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2407.04172v1'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://github.com/vis-nlp/ChartGemma'><img src='https://img.shields.io/badge/Model-green'></a>
 
-- __Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model__ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2407.07053'>
-<a href='https://github.com/zwq2018/Multi-modal-Self-instruct'><img src='https://img.shields.io/badge/Model-green'></a>
+- __Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model__ <img src='https://arxiv.org/abs/2407.07053'> <a href='https://arxiv.org/abs/2407.07053'>
+<a href='https://github.com/zwq2018/Multi-modal-Self-instruct'><img src='https://github.com/zwq2018/Multi-modal-Self-instruct'></a>
 
 **General-purpose**
 
