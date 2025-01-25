@@ -109,7 +109,7 @@ A curated list of recent and past chart understanding work based on our survey p
 
 - __ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding.__ 
 
-  _Zhengzhuo Xu*⁺, Bowen Qu*⁺, Yiyan Qi, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2409.03277'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  _Zhengzhuo Xu⁺, Bowen Qu⁺, Yiyan Qi⁺, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo._ <img src='https://img.shields.io/badge/ICLR-2025-yellow'> <a href='https://arxiv.org/abs/2409.03277'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://huggingface.co/IDEA-FinAI/chartmoe'><img src='https://img.shields.io/badge/Model-red'></a>
 
 **Long-form Questions**  
@@ -215,7 +215,7 @@ A curated list of recent and past chart understanding work based on our survey p
 
 - __ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding.__ 
 
-  _Zhengzhuo Xu*⁺, Bowen Qu*⁺, Yiyan Qi, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2409.03277'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  _Zhengzhuo Xu⁺, Bowen Qu⁺, Yiyan Qi⁺, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo._ <img src='https://img.shields.io/badge/ICLR-2025-yellow'> <a href='https://arxiv.org/abs/2409.03277'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://huggingface.co/IDEA-FinAI/chartmoe'><img src='https://img.shields.io/badge/Model-red'></a>
 
 ## Methods
