@@ -106,7 +106,11 @@ A curated list of recent and past chart understanding work based on our survey p
 
   _Zirui Wang, Mengzhou Xia, Luxi He, Howard Chen, Yitao Liu, Richard Zhu, Kaiqu Liang, Xindi Wu, Haotian Liu, Sadhika Malladi, Alexis Chevalier, Sanjeev Arora, Danqi Chen._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/pdf/2406.18521'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://huggingface.co/datasets/princeton-nlp/CharXiv'><img src='https://img.shields.io/badge/Dataset-red'></a>
-  
+
+- __ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding.__ 
+
+  _Zhengzhuo Xu⁺, Bowen Qu⁺, Yiyan Qi⁺, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo._ <img src='https://img.shields.io/badge/ICLR-2025-yellow'> <a href='https://arxiv.org/abs/2409.03277'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://huggingface.co/IDEA-FinAI/chartmoe'><img src='https://img.shields.io/badge/Model-red'></a>
 
 **Long-form Questions**  
 
@@ -208,6 +212,11 @@ A curated list of recent and past chart understanding work based on our survey p
   _Chufan Shi, Cheng Yang, Yaxin Liu, Bo Shui, Junjie Wang, Mohan Jing, Linran Xu, Xinyu Zhu, Siheng Li, Yuxiang Zhang, Gongye Liu, Xiaomei Nie, Deng Cai, Yujiu Yang_
   <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2406.09961'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://github.com/ChartMimic/ChartMimic'><img src='https://img.shields.io/badge/Dataset-red'></a>
+
+- __ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding.__ 
+
+  _Zhengzhuo Xu⁺, Bowen Qu⁺, Yiyan Qi⁺, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo._ <img src='https://img.shields.io/badge/ICLR-2025-yellow'> <a href='https://arxiv.org/abs/2409.03277'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://huggingface.co/IDEA-FinAI/chartmoe'><img src='https://img.shields.io/badge/Model-red'></a>
 
 ## Methods
 
