@@ -4,9 +4,9 @@
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12027-b31b1b.svg?style=flat)](https://arxiv.org/abs/2403.12027)
 
-**🔥🔥 Our survey paper has been accepted by TKDE! 🔥🔥**
+**🔥🔥 Our survey paper has been accepted by IEEE TKDE! 🔥🔥**
 
-A curated list of recent and past chart understanding work based on our TKDE survey paper: [From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models](https://arxiv.org/abs/2403.12027).
+A curated list of recent and past chart understanding work based on our IEEE TKDE survey paper: [From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models](https://arxiv.org/abs/2403.12027).
 
 **The repository will be continuously updated 📝. Don't forget to hit the ⭐️ and stay tuned!**
 
