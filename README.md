@@ -4,7 +4,9 @@
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
 [![arXiv](https://img.shields.io/badge/arXiv-2403.12027-b31b1b.svg?style=flat)](https://arxiv.org/abs/2403.12027)
 
-A curated list of recent and past chart understanding work based on our survey paper: [From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models](https://arxiv.org/abs/2403.12027).
+**🔥🔥 Our survey paper has been accepted by TKDE! 🔥🔥**
+
+A curated list of recent and past chart understanding work based on our TKDE survey paper: [From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models](https://arxiv.org/abs/2403.12027).
 
 **The repository will be continuously updated 📝. Don't forget to hit the ⭐️ and stay tuned!**
 
@@ -510,12 +512,10 @@ A curated list of recent and past chart understanding work based on our survey p
 ## Citation
 
 ```bibtex
-@misc{huang-etal-2024-chart,
+@article{huang-etal-2024-chart,
     title = "From Pixels to Insights: A Survey on Automatic Chart Understanding in the Era of Large Foundation Models",
     author = "Huang, Kung-Hsiang and Chan, Hou Pong and Fung, Yi R. and Qiu, Haoyi and Zhou, Mingyang and Joty, Shafiq and Chang, Shih-Fu and Ji, Heng",
     year={2024},
-    eprint={2403.12027},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+    journal={IEEE Transactions on Knowledge and Data Engineering (TKDE)},
 }
 ```
