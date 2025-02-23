@@ -218,6 +218,8 @@ A curated list of recent and past chart understanding work based on our survey p
   _Zhengzhuo Xu⁺, Bowen Qu⁺, Yiyan Qi⁺, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo._ <img src='https://img.shields.io/badge/ICLR-2025-yellow'> <a href='https://arxiv.org/abs/2409.03277'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://huggingface.co/IDEA-FinAI/chartmoe'><img src='https://img.shields.io/badge/Model-red'></a>
 
+-
+
 ## Methods
 
 ### Classification-based Methods
@@ -423,8 +425,22 @@ A curated list of recent and past chart understanding work based on our survey p
   _Ahmed Masry, Megh Thakkar, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq Joty._ <img src='https://img.shields.io/badge/COLING Industry-2025-yellow'> <a href='https://arxiv.org/abs/2407.04172v1'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://github.com/vis-nlp/ChartGemma'><img src='https://img.shields.io/badge/Model-green'></a>
 
-- __Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model__ <img src='https://img.shields.io/badge/EMNLP-2024-yellow'> <a href='https://arxiv.org/abs/2407.07053'><img src='https://img.shields.io/badge/PDF-blue'></a>
+- __Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model__
+  
+  _Wenqi Zhang, Zhenglin Cheng, Yuanyu He, Mengna Wang, Yongliang Shen, Zeqi Tan, Guiyang Hou, Mingqian He, Yanna Ma, Weiming Lu, Yueting Zhuang._ <img src='https://img.shields.io/badge/EMNLP-2024-yellow'> <a href='https://arxiv.org/abs/2407.07053'><img src='https://img.shields.io/badge/PDF-blue'></a>
 <a href='https://github.com/zwq2018/Multi-modal-Self-instruct'><img src='https://img.shields.io/badge/Model-green'></a>
+
+- __Distill Visual Chart Reasoning Ability from LLMs to MLLMs__
+
+  _Wei He, Zhiheng Xi, Wanxu Zhao, Xiaoran Fan, Yiwen Ding, Zifei Shan, Tao Gui, Qi Zhang, Xuanjing Huang._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2410.18798'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/hewei2001/ReachQA'><img src='https://img.shields.io/badge/Model-green'></a>
+
+- __Why Vision Language Models Struggle with Visual Arithmetic? Towards Enhanced Chart and Geometry Understanding__
+
+  _Kung-Hsiang Huang, Can Qin, Haoyi Qiu, Philippe Laban, Shafiq Joty, Caiming Xiong, Chien-Sheng Wu._ <img src='https://img.shields.io/badge/Arxiv-2025-yellow'> <a href='https://arxiv.org/abs/2502.11492'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://huggingface.co/datasets/Salesforce/CogAlign'><img src='https://img.shields.io/badge/Dataset-red'></a>
+  <a href='https://huggingface.co/Salesforce/cogalign-internvl2_5-mpo-4b'><img src='https://img.shields.io/badge/Model-green'></a>
+
 
 **General-purpose**
 
@@ -468,6 +484,12 @@ A curated list of recent and past chart understanding work based on our survey p
 
   _Antropic._ <img src='https://img.shields.io/badge/Year-2023-yellow'> <a href='https://www.anthropic.com/news/claude-3-family'><img src='https://img.shields.io/badge/Website-blue'></a>
   <a href='https://claude.ai/'><img src='https://img.shields.io/badge/Interface-darkgreen'></a>  
+
+- __Why Vision Language Models Struggle with Visual Arithmetic? Towards Enhanced Chart and Geometry Understanding__
+
+  _Kung-Hsiang Huang, Can Qin, Haoyi Qiu, Philippe Laban, Shafiq Joty, Caiming Xiong, Chien-Sheng Wu._ <img src='https://img.shields.io/badge/Arxiv-2025-yellow'> <a href='https://arxiv.org/abs/2502.11492'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://huggingface.co/datasets/Salesforce/CogAlign'><img src='https://img.shields.io/badge/Dataset-red'></a>
+  <a href='https://huggingface.co/Salesforce/cogalign-internvl2_5-mpo-4b'><img src='https://img.shields.io/badge/Model-green'></a>
 
 ## Evaluation
 
