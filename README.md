@@ -387,15 +387,15 @@ A curated list of recent and past chart understanding work based on our survey p
   _Fuxiao Liu, Xiaoyang Wang, Wenlin Yao, Jianshu Chen, Kaiqiang Song, Sangwoo Cho, Yaser Yacoob, Dong Yu._ <img src='https://img.shields.io/badge/NAACL-2024-yellow'> <a href='https://arxiv.org/abs/2311.10774'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://github.com/FuxiaoLiu/MMC'><img src='https://img.shields.io/badge/Model-green'></a>
   
-- __ChartAssisstant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning.__ 
+- __ChartAssistant: A Universal Chart Multimodal Language Model via Chart-to-Table Pre-training and Multitask Instruction Tuning.__ 
 
-  _Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2401.02384'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  _Fanqing Meng, Wenqi Shao, Quanfeng Lu, Peng Gao, Kaipeng Zhang, Yu Qiao, Ping Luo._ <img src='https://img.shields.io/badge/ACL Findings-2024-yellow'> <a href='https://arxiv.org/abs/2401.02384'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://github.com/OpenGVLab/ChartAst'><img src='https://img.shields.io/badge/Model-green'></a>
   
   
 - __ChartInstruct: Instruction Tuning for Chart Comprehension and Reasoning.__ 
 
-  _Ahmed Masry, Mehrad Shahmohammadi, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2403.09028'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  _Ahmed Masry, Mehrad Shahmohammadi, Md Rizwan Parvez, Enamul Hoque, Shafiq Joty._ <img src='https://img.shields.io/badge/ACL Findings-2024-yellow'> <a href='https://arxiv.org/abs/2403.09028'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://github.com/vis-nlp/ChartInstruct'><img src='https://img.shields.io/badge/Model-green'></a>
   
   
@@ -415,15 +415,15 @@ A curated list of recent and past chart understanding work based on our survey p
 
 - __TinyChart: Efficient Chart Understanding with Visual Token Merging and Program-of-Thoughts Learning.__ 
 
-  _Liang Zhang, Anwen Hu, Haiyang Xu, Ming Yan, Yichen Xu, Qin Jin, Ji Zhang, Fei Huang._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2404.16635'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  _Liang Zhang, Anwen Hu, Haiyang Xu, Ming Yan, Yichen Xu, Qin Jin, Ji Zhang, Fei Huang._ <img src='https://img.shields.io/badge/EMNLP-2024-yellow'> <a href='https://arxiv.org/abs/2404.16635'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/TinyChart'><img src='https://img.shields.io/badge/Model-green'></a>
 
 - __ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild.__ 
 
-  _Ahmed Masry, Megh Thakkar, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq Joty._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2407.04172v1'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  _Ahmed Masry, Megh Thakkar, Aayush Bajaj, Aaryaman Kartha, Enamul Hoque, Shafiq Joty._ <img src='https://img.shields.io/badge/COLING Industry-2025-yellow'> <a href='https://arxiv.org/abs/2407.04172v1'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://github.com/vis-nlp/ChartGemma'><img src='https://img.shields.io/badge/Model-green'></a>
 
-- __Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model__ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2407.07053'><img src='https://img.shields.io/badge/PDF-blue'></a>
+- __Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model__ <img src='https://img.shields.io/badge/EMNLP-2024-yellow'> <a href='https://arxiv.org/abs/2407.07053'><img src='https://img.shields.io/badge/PDF-blue'></a>
 <a href='https://github.com/zwq2018/Multi-modal-Self-instruct'><img src='https://img.shields.io/badge/Model-green'></a>
 
 **General-purpose**
