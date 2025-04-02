@@ -92,7 +92,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 - __ChartBench: A Benchmark for Complex Visual Reasoning in Charts.__ 
 
   _Zhengzhuo Xu, Sinan Du, Yiyan Qi, Chengjin Xu, Chun Yuan, Jian Guo._ <img src='https://img.shields.io/badge/Arxiv-2023-yellow'> <a href='https://arxiv.org/abs/2312.15915'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  <a href='https://huggingface.co/datasets/AI4Math/MathVista'><img src='https://img.shields.io/badge/Dataset-red'></a>
+  <a href='https://huggingface.co/datasets/SincereX/ChartBench'><img src='https://img.shields.io/badge/Dataset-red'></a>
 
 - __Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models.__
 
