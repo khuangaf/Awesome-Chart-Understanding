@@ -507,7 +507,10 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 - __Are Large Vision Language Models up to the Challenge of Chart Comprehension and Reasoning? An Extensive Investigation into the Capabilities and Limitations of LVLMs.__
 
   _Mohammed Saidul Islam, Raian Rahman, Ahmed Masry, Md Tahmid Rahman Laskar, Mir Tafseer Nayeem, Enamul Hoque._ <img src='https://img.shields.io/badge/Arxiv-2024-yellow'> <a href='https://arxiv.org/abs/2406.00257'><img src='https://img.shields.io/badge/PDF-blue'></a>
-  
+
+- __On the Perception Bottleneck of VLMs for Chart Understanding.__
+
+  _Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He._ <img src='https://img.shields.io/badge/Arxiv-2025-yellow'> <a href='https://arxiv.org/abs/2503.18435'><img src='https://img.shields.io/badge/PDF-blue'></a>
   
 ## Citation
 
