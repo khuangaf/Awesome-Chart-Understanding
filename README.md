@@ -384,6 +384,10 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 
 **Tailored for Chart Understanding** 
 
+- __START: Spatial and Textual Learning for Chart Understanding.__ 
+
+  _Zhuoming Liu, Xiaofeng Gao, Feiyang Niu, Qiaozi Gao, Liu Liu, Robinson Piramuthu._ <img src='https://img.shields.io/badge/WACV-2026-yellow'> <a href='https://arxiv.org/abs/2512.07186'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://github.com/dragonlzm/START?tab=readme-ov-file'><img src='https://img.shields.io/badge/Code-green'></a>
 
 - __ChartLlama: A Multimodal LLM for Chart Understanding and Generation.__ 
 
