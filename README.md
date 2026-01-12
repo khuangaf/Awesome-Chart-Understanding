@@ -11,7 +11,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 **The repository will be continuously updated 📝. Don't forget to hit the ⭐️ and stay tuned!**
 
 **If you find this resource beneficial for your research, please do not hesitate to cite the paper referenced in the [Citation](#citation) section. Thank you!**
-
+ter hoya sambal lei tu menu 
 
 ## Table of Contents
 *  [Tasks and Datasets](#tasks-and-datasets)
@@ -33,7 +33,7 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
 
 ### Chart Question Answering
 
-**Factoid Questions**
+**Factoid Questions**not sure
 
 - __DVQA: Understanding Data Visualizations via Question Answering.__ 
 
