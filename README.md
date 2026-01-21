@@ -114,6 +114,11 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
   _Zhengzhuo Xu⁺, Bowen Qu⁺, Yiyan Qi⁺, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo._ <img src='https://img.shields.io/badge/ICLR-2025-yellow'> <a href='https://arxiv.org/abs/2409.03277'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://huggingface.co/IDEA-FinAI/chartmoe'><img src='https://img.shields.io/badge/Model-red'></a>
 
+- __SBS Figures: Pre-training Figure QA from Stage-by-Stage Synthesized Images.__ 
+
+  _Risa Shinoda, Kuniaki Saito, Shohei Tanaka, Tosho Hirasawa, Yoshitaka Ushiku._ <img src='https://img.shields.io/badge/AAAI%20WS-2025-blue'> <a href='https://arxiv.org/abs/2412.17606'><img src='https://img.shields.io/badge/PDF-blue'></a>
+  <a href='https://huggingface.co/datasets/omron-sinicx/sbsfigures'><img src='https://img.shields.io/badge/Dataset-red'></a>
+  
 **Long-form Questions**  
 
 - __OpenCQA: Open-ended Question Answering with Charts.__ 
