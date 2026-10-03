@@ -114,6 +114,10 @@ A curated list of recent and past chart understanding work based on our IEEE TKD
   _Zhengzhuo Xu⁺, Bowen Qu⁺, Yiyan Qi⁺, Sinan Du, Chengjin Xu, Chun Yuan, Jian Guo._ <img src='https://img.shields.io/badge/ICLR-2025-yellow'> <a href='https://arxiv.org/abs/2409.03277'><img src='https://img.shields.io/badge/PDF-blue'></a>
   <a href='https://huggingface.co/IDEA-FinAI/chartmoe'><img src='https://img.shields.io/badge/Model-red'></a>
 
+- __When Does an Image Determine the Answer? Benchmarking Visual Answerability across Charts and Scenes.__
+
+  _Sungguk Cha, Mintae Kim, Youngsub Han, Byoung-Ki Jeon, Sangyeob Lee._ <img src='https://img.shields.io/badge/Arxiv-2026-yellow'> <a href='https://arxiv.org/abs/2609.34480'><img src='https://img.shields.io/badge/PDF-blue'></a>
+
 **Long-form Questions**  
 
 - __OpenCQA: Open-ended Question Answering with Charts.__ 
